@@ -35,14 +35,14 @@ The data used in this application is sourced from the PhonePe Pulse database, wh
 2. Navigate to the project directory:
     ```sh
     cd phonepe-pulse-visualization
-# Usage
+## Usage
 Run the Streamlit application:
 
  ```sh
 streamlit run app.py
 Open your browser and go to http://localhost:8501 to view the application.
 
-# Setup and Database Connection
+## Setup and Database Connection
 The application connects to a MySQL database named phonepe_data using mysql.connector. The connection details (host, user, password, and database name) are specified in the mydb variable.
 
 # Streamlit App
