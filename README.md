@@ -35,10 +35,11 @@ The data used in this application is sourced from the PhonePe Pulse database, wh
 2. Navigate to the project directory:
     ```sh
     cd phonepe-pulse-visualization
+    
 ## Usage
 Run the Streamlit application:
- ```sh
-streamlit run app.py
+    ```sh
+    streamlit run phonepe_dashboard.py
 
 Open your browser and go to http://localhost:8501 to view the application.
 
