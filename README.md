@@ -8,9 +8,18 @@ This repository contains a Streamlit application that visualizes and analyzes da
 - [Data Source](#data-source)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Setup and Database Connection](#setup-and-database-connection)
+- [Streamlit App](#streamlit-app)
+  - [Analysis Section](#analysis-section)
+    - [Aggregated Data Analysis](#aggregated-data-analysis)
+    - [Map Data Analysis](#map-data-analysis)
+    - [Top Data Analysis](#top-data-analysis)
 - [Queries](#queries)
+  - [Query Functions](#query-functions)
 - [Visualizations](#visualizations)
+  - [Plotting with Plotly](#plotting-with-plotly)
 - [License](#license)
+- [Summary](#summary)
 
 ## Introduction
 
