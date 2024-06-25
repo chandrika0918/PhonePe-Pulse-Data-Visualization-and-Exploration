@@ -8,15 +8,15 @@ The Streamlit application is divided into three main sections: About, Home, Anal
 The Analysis section provides a detailed view of the data based on different categories like AGGREGATED, MAP, and TOP. Each tab allows users to filter data by method (TRANSACTION, USER, INSURANCE), year, quarter, and other relevant parameters.
 
 ## Aggregated Data Analysis:
-Transaction data is visualized using bar charts and maps.
-User data shows registered users and transaction counts.
-Insurance data displays insurance transaction counts and amounts.
+- Transaction data is visualized using bar charts and maps.
+- User data shows registered users and transaction counts.
+- Insurance data displays insurance transaction counts and amounts.
 ## Map Data Analysis:
-Visualizes transaction counts and amounts by state.
-Registered user data by state.
-Insurance data by state.
+- Visualizes transaction counts and amounts by state.
+- Registered user data by state.
+- Insurance data by state.
 ## Top Data Analysis:
-Shows top transactions and registered users by state.
+- Shows top transactions and registered users by state.
 # Plotting with Plotly
 The application uses Plotly for creating bar charts and maps. GeoJSON files are used to plot the data on the map of India.
 # Summary
