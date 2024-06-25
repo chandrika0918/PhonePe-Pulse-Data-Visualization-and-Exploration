@@ -37,9 +37,9 @@ The data used in this application is sourced from the PhonePe Pulse database, wh
     cd phonepe-pulse-visualization
 ## Usage
 Run the Streamlit application:
-
  ```sh
 streamlit run app.py
+
 Open your browser and go to http://localhost:8501 to view the application.
 
 ## Setup and Database Connection
