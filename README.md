@@ -92,7 +92,8 @@ The application uses Plotly for creating bar charts and maps. GeoJSON files are 
 - Comparison of different brands based on transaction counts.
 
 ## Demo Video
-
+### Click Here to view demo video
+https://www.linkedin.com/posts/vijayachandrika-r-bb554023a_datavisualization-python-streamlit-activity-7234844833087897600-i1O5?utm_source=share&utm_medium=member_desktop
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
